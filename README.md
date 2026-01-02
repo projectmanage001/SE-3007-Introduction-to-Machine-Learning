@@ -88,7 +88,7 @@ Develop a classification model that:
 
 1. **Clone or navigate to the project directory**:
    ```bash
-   cd "/Users/dogukancindik/Desktop/Introduction to Machine Learning /Final/ML_Final"
+   cd "ens.gky@Enes-MacBook-Air Machine_Learning_Final_Project %"
    ```
 
 2. **Create a virtual environment** (recommended):
@@ -496,8 +496,8 @@ Results saved to `outputs/plots_results/model_comparison_results.csv`.
 
 ## 👥 Authors
 
-**Course**: Introduction to Machine Learning  
-**Institution**: [Your University]  
+**Course**: SE 3007 Introduction to Machine Learning  
+**Institution**: Muğla Sıtkı Koçman University 
 **Semester**: Fall 2026
 
 ---
