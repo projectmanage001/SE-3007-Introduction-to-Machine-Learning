@@ -1,0 +1,4 @@
+Class Distribution (0=Normal, 1=Fraud):
+Class
+0    283253
+1       473
