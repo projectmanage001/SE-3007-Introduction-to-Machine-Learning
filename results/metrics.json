@@ -1,0 +1,17 @@
+{
+  "test_accuracy": 0.9995770627004547,
+  "test_precision": 0.961038961038961,
+  "test_recall": 0.7789473684210526,
+  "test_f1": 0.8604651162790697,
+  "auc_roc": 0.974913807439642,
+  "optimal_threshold": 0.9352907538414001,
+  "confusion_matrix": {
+    "true_negatives": 56648,
+    "false_positives": 3,
+    "false_negatives": 21,
+    "true_positives": 74
+  },
+  "test_set_size": 56746,
+  "fraud_cases": 95,
+  "normal_cases": 56651
+}
